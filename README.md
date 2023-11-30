@@ -1,4 +1,10 @@
-# VirtualLandOwnership
+# Virland - Virtual Land Ownership
+Virland is a metaverse platform that enables users to buy, transfer, and own virtual land, creating immersive virtual experiences that mirror real-life scenarios.
+
+Website: https://virland.webflow.io/
+
+## Project Overview:
+This project utilizes the ERC-721 standard for non-fungible tokens (NFTs). The front-end is developed using the React framework, while the blockchain contract is written in Solidity. The web application allows users to mint new tokens, transfer ownership of tokens, and store and manage their tokens on the blockchain. Each token in this project represents a unique building within the virtual land.
 
 ## Running the Project
 
