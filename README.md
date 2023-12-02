@@ -10,11 +10,13 @@ This project utilizes the ERC-721 standard for non-fungible tokens (NFTs). The f
 
 To start the program, please follow the steps below:
 
-1. Install web dependencies:
+0. Clone the repository and navigate to the repository directory in your terminal. 
+
+1. Install web dependencies by running the following command:
    ```
    $ npm install
    ```
-   Note: Node.js must be installed.
+   Note: Make sure you have Node.js installed on your system.
 
 2. Connect to the AxiomLedger Testnet:
    - Make sure you have the Metamask wallet installed.
@@ -35,7 +37,7 @@ To start the program, please follow the steps below:
        - _NAME: Choose any preferred name.
        - _SYMBOL: Choose any preferred symbol.
        - _INITCOST: Set the initial cost for buying a land.
-     - Example:
+     - Refer to the provided example screenshot for a visual representation of the deployment process:
        ![5871701325171_ pic](https://github.com/ZixinMa27/MSBD5017Project/assets/72734552/53a640de-5842-4228-8629-c815a4c4e9c1)
 
 4. Run the web application:
